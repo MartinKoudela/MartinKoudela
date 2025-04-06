@@ -6,4 +6,4 @@ Umím frondend a právě se učím backend...
 - 🔭 Zrovna dělám na Cafecheck webovce.
 - 🌱 Učím se javascript
 
-! [Email](/Users/martinkoudela/Desktop/git_readme)
+! [Email](/Users/martinkoudela/Desktop/git_readme/email.svg)
