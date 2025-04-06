@@ -5,3 +5,5 @@ Umím frondend a právě se učím backend...
 
 - 🔭 Zrovna dělám na Cafecheck webovce.
 - 🌱 Učím se javascript
+
+![Email](git_readme/email.svg)
