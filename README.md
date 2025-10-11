@@ -1,97 +1,55 @@
 <h1>💫 About Me:</h1>
 <h3>👋 Hi, I'm Martin<br>🎓I'm a high school IT student.</h3>
-💻 Trying to learn about **modern programming languages** and clean, efficient code. <br>🌱 Currently exploring how to build **dynamic, and visually attractive** apps & websites. <br>🚀 Always curious, pushing my skills further, and experimenting with new technologies.  <br>
-<br><br>
+💻 Trying to learn about <b>modern programming languages</b> and clean, efficient code.<br>
+🌱 Currently exploring how to build <b>dynamic, and visually attractive</b> apps & websites.<br>
+🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br><br>
+
 
 <h2>🌐 Socials</h2>
 
-<p>
-  <a href="https://linkedin.com/in/martin-koudela-a5b645343" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="22" height="22"
-         style="vertical-align:middle;margin-right:6px;">
-    <span style="background-color:#3B82F6;color:white;padding:8px 14px;border-radius:8px;font-weight:600;">
-      LinkedIn
-    </span>
+<p style="display: inline-flex; gap: 6px;">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/martin-koudela-a5b645343" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  &nbsp;
-  <a href="https://instagram.com/koudy_martin" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"
-         width="22" height="22"
-         style="vertical-align:middle;margin-right:6px;">
-    <span style="background-color:#EC4899;color:white;padding:8px 14px;border-radius:8px;font-weight:600;">
-      Instagram
-    </span>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/koudy_martin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  &nbsp;
-  <a href="mailto:koudela.m@icloud.com" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         width="22" height="22"
-         style="vertical-align:middle;margin-right:6px;">
-    <span style="background-color:#F87171;color:white;padding:8px 14px;border-radius:8px;font-weight:600;">
-      Email
-    </span>
+
+  <!-- Mail -->
+  <a href="mailto:koudela.m@icloud.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mail-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="Email">
   </a>
 </p>
-
-
 <br><br>
+
+
 <h2>💻 Tech Learning</h2>
 <p>
-  <kbd style="background:#777BB4;color:blue;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">PHP
-  </kbd>
-  <kbd style="background:#F7DF1E;color:black;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">JavaScript
-  </kbd>
-  <kbd style="background:#3776AB;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Python
-  </kbd>
-  <kbd style="background:#00599C;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">C
-  </kbd>
-  <kbd style="background:#F54A2A;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Swift
-  </kbd>
-  <kbd style="background:#0175C2;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Dart
-  </kbd>
-  <kbd style="background:#02569B;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Flutter
-  </kbd>
-  <kbd style="background:#20232A;color:#61DAFB;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">React
-  </kbd>
-  <kbd style="background:black;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Next.js
-  </kbd>
-  <kbd style="background:#E34F26;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">HTML5
-  </kbd>
-  <kbd style="background:#1572B6;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">CSS3
-  </kbd>
-  <kbd style="background:#563D7C;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">Bootstrap
-  </kbd>
-  <kbd style="background:#38B2AC;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" style="vertical-align:middle;margin-right:4px;">TailwindCSS
-  </kbd>
-  <kbd style="background:#21759B;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">WordPress
-  </kbd>
-  <kbd style="background:#4479A1;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">MySQL
-  </kbd>
-  <kbd style="background:#316192;color:white;padding:6px 12px;border-radius:6px;margin:3px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" style="vertical-align:middle;margin-right:4px;">PostgreSQL
-  </kbd>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <br><br>
- <h2>💰 You can help me by Donating</h2>
- <p>
-  <a href="https://buymeacoffee.com/martinkoudela" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/buymeacoffee.svg" width="22" height="22" style="vertical-align:middle;margin-right:6px;">
-    <kbd style="background-color:#FFDD00;color:black;padding:8px 14px;border-radius:6px;">Buy Me a Coffee</kbd>
+
+<h2>💰 You can help me by Donating</h2>
+<p>
+  <a href="https://buymeacoffee.com/martinkoudela" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </p>
