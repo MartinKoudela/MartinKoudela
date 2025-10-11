@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36">
+  <rect rx="8" width="160" height="36" fill="#0A66C2"/>
+  <rect x="8" y="6" width="24" height="24" rx="5" fill="#0B5FB7"/>
+  <text x="20" y="23" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700">in</text>
+  <text x="96" y="23" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" font-weight="700">LinkedIn</text>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#F58529"/>
+      <stop offset="0.5" stop-color="#DD2A7B"/>
+      <stop offset="1" stop-color="#8134AF"/>
+    </linearGradient>
+  </defs>
+  <rect rx="8" width="160" height="36" fill="url(#g)"/>
+  <rect x="8" y="6" width="24" height="24" rx="5" fill="#ffffff"/>
+  <!-- jednoduchá "ikonka" -->
+  <circle cx="20" cy="18" r="6" fill="#8134AF"/>
+  <circle cx="26" cy="12" r="2.4" fill="#ffffff"/>
+  <text x="96" y="23" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Instagram</text>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36">
+  <rect rx="8" width="160" height="36" fill="#EA4335"/>
+  <rect x="8" y="6" width="24" height="24" rx="5" fill="#ffffff"/>
+  <!-- obálka (jednoduchý tvar) -->
+  <rect x="12" y="10" width="16" height="12" rx="1.5" fill="#EA4335"/>
+  <polyline points="12,10 20,17 28,10" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+  <text x="96" y="23" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Email</text>
+</svg>
