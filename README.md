@@ -8,23 +8,19 @@
 <h2>🌐 Socials</h2>
 
 <p style="display: inline-flex; gap: 6px;">
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/martin-koudela-a5b645343" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logoColor=0A66C2" alt="LinkedIn">
   </a>
-
-  <!-- Instagram -->
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/koudy_martin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
-  <!-- Mail -->
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:koudela.m@icloud.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Mail-007AFF?style=flat-square&logo=icloud&logoColor=white" alt="Email">
   </a>
 </p>
-<br><br>
-
+<br>
 
 <h2>💻 Tech Learning</h2>
 <p>
@@ -45,7 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<br><br>
+<br>
 
 <h2>💰 You can help me by Donating</h2>
 <p>
