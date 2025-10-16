@@ -1,5 +1,7 @@
 <h1>💫 About Me:</h1>
-<h3>👋 Hi, I'm Martin<br>🎓I'm a high school IT student.</h3>
+<h3>👋 Hi, I'm Martin,</h3>
+  
+🎓I'm a high school IT student.<br>
 💻 Trying to learn about <b>modern programming languages</b> and clean, efficient code.<br>
 🌱 Currently exploring how to build <b>dynamic, and visually attractive</b> apps & websites.<br>
 🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br><br>
