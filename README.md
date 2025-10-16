@@ -4,7 +4,7 @@
 🎓I'm a high school IT student.<br>
 💻 Trying to learn about <b>modern programming languages</b> and clean, efficient code.<br>
 🌱 Currently exploring how to build <b>dynamic, and visually attractive</b> apps & websites.<br>
-🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br><br>
+🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br>
 
 
 <h2>🌐 Socials</h2>
