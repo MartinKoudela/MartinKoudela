@@ -7,7 +7,7 @@
 🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br>
 
 
-<h2>🌐 Socials</h2>
+<h2>🌐 Contacts</h2>
 
 <p style="display: inline-flex; gap: 6px;">
   <a href="https://linkedin.com/in/martin-koudela-a5b645343" target="_blank" rel="noopener noreferrer">
