@@ -1,17 +1,21 @@
 <h1>💫 About Me:</h1>
 <h3>👋 Hi, I'm Martin,</h3>
-  
-🎓I'm a high school IT student.<br>
-💻 Trying to learn about <b>modern programming languages</b> and clean, efficient code.<br>
-🌱 Currently exploring how to build <b>dynamic, and visually attractive</b> apps & websites.<br>
-🚀 Always curious, pushing my skills further, and experimenting with new technologies.<br><br>
 
+🎓 I'm a high school IT student focused on <b>software development, web development, and embedded systems</b>.<br>
+💻 I work mainly with <b>PHP & Laravel</b> on backend logic, APIs, and web applications.<br>
+🌐 I build <b>web applications</b> combining backend systems with clean and functional frontends.<br>
+🔧 I also work with <b>microcontrollers and IoT devices</b>, connecting hardware with software systems.<br>
+📊 I use <b>MySQL and databases</b> to store, process, and analyze application and IoT data.<br>
+🐍 I use <b>Python</b> for scripting, automation, and problem solving.<br>
+⚙️ I have experience with <b>C and C++</b>, mainly for embedded and low-level programming concepts.<br>
+🔐 I’m interested in <b>application security and pentesting</b>, especially in web and IoT environments.<br>
+🚀 Always learning, building projects, and improving my skills.<br><br>
 
 <h2>🌐 Contacts</h2>
 
 <p style="display: inline-flex; gap: 6px;">
   <a href="https://linkedin.com/in/martin-koudela-a5b645343" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white&logoColor=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/koudy_martin" target="_blank" rel="noopener noreferrer">
