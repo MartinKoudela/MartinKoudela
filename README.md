@@ -37,8 +37,9 @@ When I'm not coding, I'm probably soldering something. I enjoy working with hard
 
 ## 📊 GitHub stats
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinKoudela&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MartinKoudela&theme=dark&hide_border=true)](https://github.com/MartinKoudela)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MartinKoudela&theme=flat&no-frame=true&no-bg=true&row=1)](https://github.com/MartinKoudela)
 
 ## 📬 Get in touch
 
-- 🌐 [laravix.com](https://laravix.com)
+-  [martinkoudela.com](https://martinkoudela.com)
